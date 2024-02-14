@@ -4,8 +4,9 @@
    DEFINIÇÃO E CONSTRUÇÃO <img align="center" alt="Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" /></h3>
 </div>
 
-<h4>➡️Em relação ao uso de classes em Kotlin, é importante ressaltar as seguintes características:</h4>
+<h4 style="text-align: justify">➡️Em relação ao uso de classes em Kotlin, é importante ressaltar as seguintes características:</h4>
 
+<div align="justify">
 Definem propriedades para armazenar valores.
 Definem métodos para fornecer funcionalidades.
 Definem inicializadores para configurar seu estado inicial.
@@ -21,8 +22,11 @@ conteúdo também são chamadas de propriedades armazenadas.
 Toda classe necessita de um método construtor (ou método inicializador) para criar uma instância daquela
 classe (também chamada de objeto).
 
-⭐DICA: Dentro de classes, as funções passam a ser chamadas de métodos, e as variáveis são chamadas de
-propriedades.
+##
+<p>⭐DICA: Dentro de classes, as funções passam a ser chamadas de métodos, e as variáveis são chamadas de
+propriedades.</p>
+
+##
 
 O método construtor cria uma instância daquela classe e tem por obrigação alimentar qualquer propriedade
 que não tenha sido inicializada. No exemplo desenvolvido, a propriedade age é a única que foi definida e já
@@ -35,4 +39,4 @@ e o speak(sentence: String), que faz com que a pessoa fale algo. Nesse método, 
 informando que uma pessoa com menos de três anos só fala “gugu dada”.
 Para instanciarmos uma classe, criamos uma variável e atribuímos a ela a chamada do método construtor da
 classe que desejamos. Para chamarmos o método construtor, usamos apenas o nome da classe, passando os
-valores dos parâmetros do método.
+valores dos parâmetros do método. </div>
